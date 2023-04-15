@@ -1,6 +1,6 @@
 # Recurrent embedding kernel
 
-Main libraries:
+### Main libraries:
 - Python 2.7
 - theano
 - numpy
